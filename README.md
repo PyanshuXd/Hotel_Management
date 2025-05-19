@@ -26,16 +26,30 @@ The system allows hotels to manage bookings in real-time, track room availabilit
 
  ![Technology](https://github.com/PyanshuXd/Hotel_Management/blob/a8eeefce60b90d5fe514db2102241b36b5929873/Images%20Used/technology.jpg)  
 
-## Scope of the Project:
-- Reservation Management.
-  
-- Guest Management.
+## Components of the Project:
+- Guests Management: Registering, updating, and managing Guests details.
+- Room Management: Handling room details, availability, and pricing.
+- Booking System: Facilitating room reservations and cancellations.
+- Billing System: Generating invoices and handling payments.
+- Reception Management: Managing staff details and assignments.
+- Feedback System: Collecting and analyzing customer feedback.
 
-- Room Management.
+## ER DIAGRAM:
 
-- Billing & Payments.
-- 
-- Receptionist Management.
-- 
-- Feedbacks & Analytics.
+ ![ER](https://github.com/PyanshuXd/Hotel_Management/blob/4fe3f45383925fbddeb3e5fac7bc50c44614253f/Images%20Used/ER.png)
 
+## Challenges Faced in the Project:
+- Ensuring data integrity through proper use of foreign keys and constraints.
+- Handling concurrent bookings to avoid double reservations by adding unique constraints.
+- Optimizing queries for faster execution, especially with large datasets.
+
+## Future Improvement Scope:
+- Integration with online booking platforms for real-time updates.
+- Implementing advanced analytics for Guests behavior and preferences.
+- Incorporating automated notifications for bookings and payments.
+
+![Challenges](https://github.com/PyanshuXd/Hotel_Management/blob/60ab55d05ed03f5839067c51b72d5e89352645cd/Images%20Used/Future.jpg)
+
+## Conclusion:
+
+The Hotel Management System developed using MySQL successfully streamlines key operations such as guest reservations, room management, billing, and staff coordination. By implementing a relational database structure, the system ensures efficient data storage, retrieval, and integrity. This project not only enhances operational efficiency but also provides a scalable solution for managing hotel resources, ultimately improving guests satisfaction and decision-making processes.
