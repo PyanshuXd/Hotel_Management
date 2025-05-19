@@ -20,4 +20,22 @@ The system allows hotels to manage bookings in real-time, track room availabilit
 - Implement real-time room availability tracking to eliminate double bookings and optimize occupancy.
 - Automate invoice generation, payment tracking, and receipt management to reduce human errors.
 
+## Technology Used in the Project:
+- SQL (Structured Query Language) for database management.
+- MySQL as the database management system.
+
+ ![Technology](https://github.com/PyanshuXd/Hotel_Management/blob/a8eeefce60b90d5fe514db2102241b36b5929873/Images%20Used/technology.jpg)  
+
+## Scope of the Project:
+- Reservation Management.
   
+- Guest Management.
+
+- Room Management.
+
+- Billing & Payments.
+- 
+- Receptionist Management.
+- 
+- Feedbacks & Analytics.
+
